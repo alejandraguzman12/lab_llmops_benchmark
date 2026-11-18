@@ -1,0 +1,7 @@
+modelo,prompt,ttft_ms,tps,tokens_prompt,tokens_generados,total_s
+qwen2.5:1.5b-instruct-q4_K_M,Corto (Definición),396.4,20.88,52,508,24.78
+qwen2.5:1.5b-instruct-q4_K_M,Medio (Razonamiento),814.6,20.84,82,509,25.29
+qwen2.5:1.5b-instruct-q4_K_M,Largo (Generación de Código),748.8,23.12,77,751,33.34
+qwen2.5:1.5b-instruct-q8_0,Corto (Definición),498.2,17.41,52,293,17.39
+qwen2.5:1.5b-instruct-q8_0,Medio (Razonamiento),922.7,17.11,82,598,35.93
+qwen2.5:1.5b-instruct-q8_0,Largo (Generación de Código),849.6,16.86,77,891,53.85
